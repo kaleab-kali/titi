@@ -30,7 +30,7 @@ export const VogueCover: React.FC = memo(() => {
                 {/* Top Bar - Date and Price */}
                 <div className="flex justify-between items-center px-8 pt-6 text-white/80">
                     <span className="font-montserrat text-xs tracking-[0.3em] uppercase">
-                        Feburary 24 2026
+                        February 24 2026
                     </span>
                     <span className="font-montserrat text-xs tracking-wider">
                         Birthday Edition
@@ -96,7 +96,7 @@ export const VogueCover: React.FC = memo(() => {
 
                 {/* Top Section: Date & Tagline */}
                 <div className="flex justify-between items-start text-white/80 text-[8px] tracking-[0.2em] uppercase font-montserrat">
-                    <span>January 2026</span>
+                    <span>February 24 2026</span>
                     <span>Birthday Edition</span>
                 </div>
 
